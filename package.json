@@ -1,0 +1,8 @@
+{
+  "name": "abasthan-xray-node",
+  "version": "1.0.0",
+  "description": "Xray VLESS+WS node on Abasthan free tier",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
